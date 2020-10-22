@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Home1</string>
+    <string-array name="planets_array">
+        <item>Sim 5 smart</item>
+        <item>Sim 7 smart</item>
+        <item>Sim 9 smart</item>
+
+    </string-array>
+    <string-array name="planet_array2">
+        <item>Sim Shababi 6</item>
+        <item>Sim Shababi 8</item>
+        <item>Sim Shababi 10</item>
+
+    </string-array>
+
+    <string-array name="planet_array3">
+        <item>Router 1000 GB </item>
+        <item>Router 2000 GB</item>
+        <item>Router 3000 GB </item>
+
+    </string-array>
+
+    <string-array name="planet_array4">
+        <item>Mifi 150 GB </item>
+        <item>Mifi 300 GB</item>
+        <item>Mifi 500 GB </item>
+
+    </string-array>
+
+    <string-array name="planet_array5">
+        <item>Fiber 100 MB </item>
+        <item>Fiber 300 MB</item>
+        <item>Fiber 1000 MB </item>
+
+    </string-array>
+    <string-array name="empty_array">
+
+    </string-array>
+
+
+</resources>
